@@ -32,7 +32,7 @@ Hi, I'm Nikhil Bhasin, a passionate programmer and data science enthusiast.
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/phoenix-1-2/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
 
 
 <a href="https://github.com/phoenix-1-2/github-readme-stats">
@@ -42,12 +42,3 @@ Hi, I'm Nikhil Bhasin, a passionate programmer and data science enthusiast.
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-1-2&layout=compact&theme=radical" />
 </a>
-
-<!-- <a href="https://github.com/phoenix-1-2/github-readme-stats"> -->
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1-2&repo=github-readme-stats&theme=radical" />
-
-<!-- <a href="https://github.com/phoenix-1-2/phoenix-1-2.github.io"> -->
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1-2&repo=anuraghazra.github.io&theme=radical" />
-<!-- </a> -->
