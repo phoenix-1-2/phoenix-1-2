@@ -1,29 +1,27 @@
 ### Hi there, I'm [Nikhil!] 👋
 
 <a href="https://www.hackerrank.com/nikhil_12_04">
-  <img align="left" alt="Anurag Hazra | CodeSandbox" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/hackerrank.svg" />
+  <img align="left" alt="Nikhil Bhasin | HackerRank" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/hackerrank.svg" />
 </a>
-<a href="https://twitter.com/anuraghazru">
-  <img align="left" alt="Anurag Hazra | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/nikhil1204/">
+  <img align="left" alt="Nikhil Bhasin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/linkedin.svg" />
 </a>
-<a href="https://discord.gg/VK4k3Br">
-  <img align="left" alt="Anurag's Discord" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+<a href="https://www.instagram.com/nikhilbhasin12">
+  <img align="left" alt="Nikhil's Instagram" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/instagram.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Nikhil Bhasin, a passionate programmer and data science enthusiast.
 
-- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
-- 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
+- 🌱 I’m currently learning Data Science,Machine Learning,Advance Algorithms.
+- 💬 Ask me about anything [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
