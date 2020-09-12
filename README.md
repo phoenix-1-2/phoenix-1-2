@@ -12,8 +12,7 @@
 <br />
 <br />
 
-Hi, I'm Nikhil Bhasin, a passionate programmer and data science enthusiast.I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology.I am skilled in Java, Python, Front-End Web Development, Back-End Web Development in Django,Data Scraping and have a proper command in Data Structures and Algorithms. I also have a keen interest in Data Science and Machine Learning. The disciplines of Natural Language Processing and Computer Vision fascinate me and shall mark my future prospects.
-
+Hi, I'm Nikhil Bhasin, a passionate programmer and machine learning enthusiast.I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology.I am skilled in Java, Python, Front-End Web Development, Back-End Web Development in Django,Data Scraping and have a proper command in Data Structures and Algorithms. I also have a keen interest in Competitive Programming and love to tackle problems and coding them. 
 **More About Me :** 
 
 - 🌱 I’m currently learning Data Science,Machine Learning,Advance Algorithms.
