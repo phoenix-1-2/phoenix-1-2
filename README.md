@@ -1,4 +1,4 @@
-### Hi there, I'm [Nikhil!] 👋
+### Hi there, I'm Nikhil! 👋
 <a href="https://www.linkedin.com/in/nikhil1204/">
   <img align="left" alt="Nikhil Bhasin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-linkedin-circle-512.webp" />
 </a>
@@ -43,11 +43,11 @@ Hi, I'm Nikhil Bhasin, a passionate programmer and data science enthusiast.
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phoenix-1-2&layout=compact&theme=radical" />
 </a>
 
-<a href="https://github.com/phoenix-1-2/github-readme-stats">
+<!-- <a href="https://github.com/phoenix-1-2/github-readme-stats"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1-2&repo=github-readme-stats&theme=radical" />
-</a>    
-<a href="https://github.com/phoenix-1-2/phoenix-1-2.github.io">
+
+<!-- <a href="https://github.com/phoenix-1-2/phoenix-1-2.github.io"> -->
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=phoenix-1-2&repo=anuraghazra.github.io&theme=radical" />
-</a>
+<!-- </a> -->
