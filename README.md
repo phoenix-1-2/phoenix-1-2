@@ -1,6 +1,6 @@
 ### Hi there, I'm [Nikhil!] 👋
 <a href="https://www.linkedin.com/in/nikhil1204/">
-  <img align="left" alt="Nikhil Bhasin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/png-transparent-social-media-linkedin-computer-icons-logo-facebook-shelf-drum-blue-text-rectangle-thumbnail.png" />
+  <img align="left" alt="Nikhil Bhasin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-linkedin-circle-512.webp" />
 </a>
 <a href="https://www.hackerrank.com/nikhil_12_04">
   <img align="left" alt="Nikhil Bhasin | HackerRank" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/HackerRank_logo.png" />
