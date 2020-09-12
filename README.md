@@ -1,13 +1,13 @@
 ### Hi there, I'm [Nikhil!] 👋
 
 <a href="https://www.hackerrank.com/nikhil_12_04">
-  <img align="left" alt="Nikhil Bhasin | HackerRank" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/hackerrank.svg" />
+  <img align="left" alt="Nikhil Bhasin | HackerRank" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/HackerRank_logo.png" />
 </a>
 <a href="https://www.linkedin.com/in/nikhil1204/">
-  <img align="left" alt="Nikhil Bhasin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/linkedin.svg" />
+  <img align="left" alt="Nikhil Bhasin | LinkedIn" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/png-transparent-social-media-linkedin-computer-icons-logo-facebook-shelf-drum-blue-text-rectangle-thumbnail.png" />
 </a>
 <a href="https://www.instagram.com/nikhilbhasin12">
-  <img align="left" alt="Nikhil's Instagram" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/instagram.svg" />
+  <img align="left" alt="Nikhil's Instagram" width="25px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/instagram-social-media-logo-for-your-works-png-format-19.png" />
 </a>
 
 <br />
