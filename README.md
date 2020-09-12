@@ -1,12 +1,24 @@
-### Hi there, I'm [Nikhil!](https://github.com/phoenix-1-2) 👋
+### Hi there, I'm [Nikhil!] 👋
+
+<a href="https://www.hackerrank.com/nikhil_12_04">
+  <img align="left" alt="Anurag Hazra | CodeSandbox" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/hackerrank.svg" />
+</a>
+<a href="https://twitter.com/anuraghazru">
+  <img align="left" alt="Anurag Hazra | Twitter" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+</a>
+<a href="https://discord.gg/VK4k3Br">
+  <img align="left" alt="Anurag's Discord" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+</a>
+
 <br />
 <br />
 
-Hi, I'm Nikhil Bhasin, a passionate programmer.
+Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
 
-- 🌱 I’m currently learning Advance Algorithms for Competitive Programming , Data Science and Machine Learning.
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/phoenix-1-2/github-readme-stats)
-- 💬 Ask me about anything [here](https://github.com/anuraghazra/phoenix-1-2/issues)
+- 🔭 I’m currently working on my project [ConvoyChat](https://github.com/anuraghazra/convoychat)
+- 🌱 I’m currently learning GraphQL & Typescript
+- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
 **Languages and Tools:**  
 
