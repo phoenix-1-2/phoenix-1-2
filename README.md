@@ -18,8 +18,8 @@ Hi, I'm Nikhil Bhasin, a passionate programmer, and machine learning enthusiast.
 
 - 🌱 I’m currently learning Data Science,Machine Learning,Advance Algorithms.
 - 👯 I’m looking to collaborate on interesting projects.
-- 😄 Pronouns: Phoenix Coder. 
-- 💬 Ask me about Java,Python and Competitive Programming [here](https://www.linkedin.com/in/nikhil1204/)
+- 😄 Pronouns: Phoenix. 
+- 💬 Ask me about Java,Python and Competitive Programming,Data Science & Machine Learning [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
