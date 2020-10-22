@@ -19,7 +19,7 @@ Hi, I'm Nikhil Bhasin, a passionate programmer, and machine learning enthusiast.
 - 🌱 I’m currently learning Advance Algorithms for Competitive Programming.
 - 👯 I’m looking to collaborate on interesting projects.
 - 😄 Pronouns: Phoenix.
-- 🧗 Hobbies: Playing Badminton,Chess,Cricket sometimes reading about psychology stuffs too
+- 🧗 Hobbies: Playing Badminton,Cricket,Chess(Want to [challenge](https://www.chess.com/member/phoenix_124))
 - 💬 Ask me about Java,Python and Competitive Programming,Data Science & Machine Learning [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
