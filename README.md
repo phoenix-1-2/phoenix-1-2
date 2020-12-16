@@ -1,10 +1,14 @@
-### Hi there, I'm Nikhil! 👋
+### Hi there, I'm Nikhil ! 👋
 <a href="https://www.linkedin.com/in/nikhil1204/">
   <img align="left" alt="Nikhil Bhasin | LinkedIn" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-linkedin-circle-512.webp" />
 </a>
 
-<a href="https://www.linkedin.com/in/nikhil1204/">
-  <img align="left" alt="Nikhil Bhasin | LinkedIn" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-linkedin-circle-512.webp" />
+<a href="https://www.codechef.com/users/phoenix_1_2">
+  <img align="left" alt="Nikhil Bhasin | CodeChef" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-codechef-circle-512.webp" />
+</a>
+
+<a href="https://leetcode.com/phoenix_1_2/">
+  <img align="left" alt="Nikhil Bhasin | Leetcode" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-leetcode-circle-512.webp" />
 </a>
 
 <a href="https://www.hackerrank.com/nikhil_12_04">
