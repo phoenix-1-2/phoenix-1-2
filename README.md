@@ -4,11 +4,11 @@
 </a>
 
 <a href="https://www.codechef.com/users/phoenix_1_2">
-  <img align="left" alt="Nikhil Bhasin | CodeChef" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-codechef-circle-512.webp" />
+  <img align="left" alt="Nikhil Bhasin | CodeChef" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-codechef-circle-512.jpg" />
 </a>
 
 <a href="https://leetcode.com/phoenix_1_2/">
-  <img align="left" alt="Nikhil Bhasin | Leetcode" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-leetcode-circle-512.webp" />
+  <img align="left" alt="Nikhil Bhasin | Leetcode" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-leetcode-circle-512.png" />
 </a>
 
 <a href="https://www.hackerrank.com/nikhil_12_04">
