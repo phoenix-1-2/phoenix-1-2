@@ -14,7 +14,7 @@
 <a href="https://www.hackerrank.com/nikhil_12_04">
   <img align="left" alt="Nikhil Bhasin | HackerRank" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/HackerRank_logo.png" />
 </a>
-<a href="https://www.instagram.com/nikhilbhasin12">
+<a href="https://www.instagram.com/nikhil__bhasin">
   <img align="left" alt="Nikhil's Instagram" width="27px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/instagram-social-media-logo-for-your-works-png-format-19.png" />
 </a>
 
