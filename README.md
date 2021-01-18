@@ -28,7 +28,7 @@ Hi, I'm <a href = "https://phoenix-1-2.github.io/Nikhil-Bhasin/">Nikhil Bhasin</
 - 🌱 I’m currently learning Advance Algorithms for Competitive Programming.
 - 👯 I’m looking to collaborate on interesting projects.
 - 😄 Pronouns: Phoenix.
-- 🧗 Hobbies: Playing Badminton,Cricket,Chess(Want to [challenge](https://www.chess.com/member/phoenix_124))
+- 🧗 Hobbies: Playing Badminton,Cricket.
 - 💬 Ask me about Java,Python and Competitive Programming,Data Science & Machine Learning [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
