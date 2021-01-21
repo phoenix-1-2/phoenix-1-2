@@ -21,8 +21,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://phoenix-1-2.github.io/Nikhil-Bhasin/">Nikhil Bhasin</a>, a passionate programmer, and machine learning enthusiast. I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology. I have a proper command in Data Structures and Algorithms. I am skilled in Java, Python, Front-End Web Development, Back-End Web Development in Django, Data Analytics, and  I also have a keen interest in Competitive Programming and actively involved in resolving logical puzzles, developing algorithms, and writing codes on Hackerrank, Codechef, and Codeforces.
-
+Hi, I'm <a href = "https://phoenix-1-2.github.io/Nikhil-Bhasin/">Nikhil Bhasin</a>, a passionate programmer, and machine learning enthusiast. I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology. I have a proper command in Data Structures and Algorithms. I am skilled in Java, Python, Front-End Web Development, Back-End Web Development in Django, Data Analytics, and  I also have a keen interest in Competitive Programming and actively involved in resolving logical puzzles, developing algorithms, and writing codes on Hackerrank,Leetcode,Codechef,and Codeforces.
 **More About Me :** 
 
 - 🌱 I’m currently learning Advance Algorithms for Competitive Programming.
