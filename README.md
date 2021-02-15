@@ -29,7 +29,7 @@ I am skilled in :- <br />
 - Programming Languages : Java,C++,Python,Javascript(ES-6). <br />
 - Front End Web Developement : HTML, CSS, React.js, Bootstrap, jQuery and other React/FrontEnd Frameworks. <br />
 - Back End Web Development: SQL, Python Django,Node.js,Express.js, Mongo.DB.
-- DevTools : Git Version Control,UNIX Terminal,Firebase,Heroku,Netlify.
+- DevTools : Git Version Control,Pandas,UNIX Terminal,Firebase,Heroku,Netlify.
 - Other Skills: Data Analytics, Machine Learning, Natural Language Processing.
 
 **More About Me :** 
