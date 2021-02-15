@@ -24,12 +24,12 @@
 Hi, I'm <a href = "https://phoenix-1-2.github.io/Nikhil-Bhasin/">Nikhil Bhasin</a>, a passionate programmer, and machine learning enthusiast. I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology. I have a proper command in Data Structures and Algorithms.
 <br />
 <br />
-I am skilled in :
-Programming Languages : Java,C++,Python,Javascript
-Front End Web Developement : HTML,CSS,React.js,Bootstrap,jQuery and other React/FrontEnd Frameworks.
-Back End Web Developement : SQL,Python Django,Node.js,Express.js,Mongo.db
-DevTools : Git Version Control,UNIX Terminal,Firebase 
-Other Skills : Data Analytics,Machine Learning,Natural Language Processing
+I am skilled in : <br />
+Programming Languages : Java,C++,Python,Javascript(ES-6). <br />
+Front End Web Developement : HTML,CSS,React.js,Bootstrap,jQuery and other React/FrontEnd Frameworks. <br />
+Back End Web Developement : SQL,Python Django,Node.js,Express.js,Mongo.db.
+DevTools : Git Version Control,UNIX Terminal,Firebase,Heroku,Netlify.
+Other Skills : Data Analytics,Machine Learning,Natural Language Processing.
 
 **More About Me :** 
 
