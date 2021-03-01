@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://phoenix-1-2.github.io/Nikhil-Bhasin/">Nikhil Bhasin</a>, a passionate programmer. I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology. I have a proper command in Data Structures and Algorithms.
+Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>, a passionate programmer. I am an undergraduate student at Jaypee Institute of Information Technology, Noida pursuing B.Tech in Information Technology. I have a proper command in Data Structures and Algorithms.
 <br />
 <br />
 
