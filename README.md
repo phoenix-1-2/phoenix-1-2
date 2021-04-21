@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a pre-final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I own a strong command of Data Structures and Algorithms with Java and C++ as my primary programming languages.
+Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a pre-final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I own strong command of Data Structures and Algorithms with Java and C++ as my primary programming languages.
 <br />
 <br />
 
