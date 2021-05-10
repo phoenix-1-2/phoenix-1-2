@@ -37,7 +37,7 @@ I am skilled in :- <br />
 - 🌱 I’m currently learning Advance Algorithms for Competitive Programming.
 - 👯 I’m looking to collaborate on interesting projects.
 - 😄 Pronouns: Phoenix.
-- 🧗 Hobbies: Playing Badminton,Cricket,Chess( Let's play a Rapid match [here](https://www.chess.com/member/phoenix_124) ).
+- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)).
 - 💬 Ask me about Competitive Programming,Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
