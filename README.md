@@ -38,7 +38,7 @@ I am skilled in :- <br />
 - 👯 I’m looking to collaborate on interesting projects.
 - 😄 Pronouns: Phoenix.
 - 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)).
-- 💬 Ask me about Competitive Programming,Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
+- 💬 Ask me about Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
