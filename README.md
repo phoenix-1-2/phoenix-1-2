@@ -41,8 +41,8 @@ I am skilled in :- <br />
 - 💬 Ask me about Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
-<img height="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg">
-<img height="30" src="https://i.redd.it/31b2ii8hchi31.jpg">
+<img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJhIjSYiOT_ZfKlPszUXQ4UfZWd32n5mJ_zA&usqp=CAU">
+<img height="40" src="https://i.redd.it/31b2ii8hchi31.jpg">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
