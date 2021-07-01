@@ -41,8 +41,8 @@ I am skilled in :- <br />
 - 💬 Ask me about Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
-<img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcpp%2Fcomments%2Fcv0o0x%2Fc_has_a_lovely_logo_why_arent_we_using_it_as_the%2F&psig=AOvVaw1DY9BqQjTtpv4rirFtQhTM&ust=1625228121374000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNDPs9rswfECFQAAAAAdAAAAABAD">
-<img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2F1000logos.net%2Fjava-logo%2F&psig=AOvVaw2d8un83XefcQMj6CfpsApF&ust=1625228152048000&source=images&cd=vfe&ved=0CAoQjRxqFwoTCNiA2ujswfECFQAAAAAdAAAAABAD">
+<img height="30" src="https://1000logos.net/wp-content/uploads/2020/09/Java-Emblem.jpg">
+<img height="30" src="https://i.redd.it/31b2ii8hchi31.jpg">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
