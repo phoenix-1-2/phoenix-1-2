@@ -45,7 +45,7 @@ I am skilled in :- <br />
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-icon-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/flask-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/mongodb-logo-vector.svg">
