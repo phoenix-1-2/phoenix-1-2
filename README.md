@@ -55,7 +55,7 @@ I am skilled in :- <br />
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/git-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/linux-tux-logo-vector-1.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postgresql-inc-logo-black-and-white.png">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postman-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/react-logo-1.png">
 
 <!--- 
   if you have forked this to use on your profile, 
