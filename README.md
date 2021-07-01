@@ -48,15 +48,13 @@ I am skilled in :- <br />
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/flask-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postgresql-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/mongodb-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/git-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/linux-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postman-logo-vector.svg">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/sonarqube-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/linux-tux-logo-vector-1.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postgresql-inc-logo-black-and-white.png">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postman-logo-vector.svg">
 
 <!--- 
