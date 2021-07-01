@@ -41,7 +41,7 @@ I am skilled in :- <br />
 - 💬 Ask me about Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
+<img style="margin-right: 5px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-vector.svg">
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg">
