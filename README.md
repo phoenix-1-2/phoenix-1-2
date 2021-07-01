@@ -41,7 +41,7 @@ I am skilled in :- <br />
 - 💬 Ask me about Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
 
 **Languages and Tools:**  
-<img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3gcEHljm4uFrhYUQbtahBOWCW4HGWXCNYQw&usqp=CAU">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
 <img height="40" src="https://i.redd.it/31b2ii8hchi31.jpg">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
