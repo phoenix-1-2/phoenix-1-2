@@ -42,13 +42,22 @@ I am skilled in :- <br />
 
 **Languages and Tools:**  
 <img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
-<img height="40" src="https://i.redd.it/31b2ii8hchi31.jpg">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/c-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/javascript-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/nodejs-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/flask-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postgresql-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/mongodb-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/html-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/css-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/bootstrap-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/git-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/linux-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postman-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/sonarqube-logo-vector.svg">
+<img height="40" src="https://brandslogos.com/wp-content/uploads/images/large/postman-logo-vector.svg">
 
 <!--- 
   if you have forked this to use on your profile, 
