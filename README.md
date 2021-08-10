@@ -22,20 +22,22 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a pre-final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I own strong command of Data Structures and Algorithms with Java and C++ as my primary programming languages.
+Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a pre-final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I'm currently working as a Software Engineer at <a href="https://innovaccer.com/">Innovaccer</a>👨‍💻. I have experience working as a Software Developer in various domains like E-Commerce and Health-Care.
+
+
 <br />
 <br />
 
 I am skilled in :- <br />
-- Programming Languages : Java,C++,Python,Javascript(ES-6). <br />
-- Back End Web Development: SQL, Python Django,Node.js,Express.js, Mongo.DB. <br />
-- Front End Web Developement : HTML, CSS, React.js, Bootstrap, jQuery and other React/FrontEnd Frameworks. <br />
-- DevTools : Git Version Control,Pandas,UNIX Terminal,Firebase,Postman,SonarQube,Heroku,Netlify. <br />
-- Other Skills: Data Analytics, Machine Learning, Natural Language Processing. <br />
+- Programming Languages : Java,C++,Python,Javascript(ES-6). <br />  <br />
+- Back End Web Development: SQL, Python Django,Node.js,Express.js, Mongo.DB. <br />  <br />
+- Front End Web Developement : HTML, CSS, React.js, Bootstrap, jQuery and other React/FrontEnd Frameworks. <br />  <br />
+- DevTools : Amazon Web Services,Git Version Control,Pandas,Linux Terminal,Postman,SonarQube,Heroku,Netlify. <br />  <br />
+- Other Skills: Data Analytics, Machine Learning, Natural Language Processing. <br />  <br />
 
 **More About Me :** 
 
-- 🌱 I’m currently learning System Design and Advanced Algorithms.
+- 💻  I’m currently learning System Design and Advanced Algorithms .
 - 👯 I’m looking to collaborate on interesting projects.
 - 😄 Pronouns: Phoenix.
 - 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)).
@@ -64,9 +66,6 @@ I am skilled in :- <br />
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of github-readme-stats*
-
 
 <a href="https://github.com/phoenix-1-2/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=phoenix-1-2&show_icons=true&include_all_commits=true&theme=radical" alt="Nikhil's github stats" />
