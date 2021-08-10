@@ -34,11 +34,11 @@ I am skilled in :- <br />
 
 **More About Me :** 
 
-- 💻  I’m currently learning System Design and Advanced Algorithms . <br />
-- 👯 I’m looking to collaborate on interesting projects. <br />
-- 😄 Pronouns: Phoenix. <br />
-- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)). <br />
-- 💬 Ask me about Full Stack Web Devlopement and Design and Health-care technologies [here](https://www.linkedin.com/in/nikhil1204/) <br />
+- 💻  I’m currently learning System Design and Advanced Algorithms . <br /> <br />
+- 👯 I’m looking to collaborate on interesting projects. <br /> <br />
+- 😄 Pronouns: Phoenix. <br /> <br />
+- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)). <br /> <br />
+- 💬 Ask me about Full Stack Web Devlopement and Design and Health-care technologies [here](https://www.linkedin.com/in/nikhil1204/) <br /> <br />
 
 **Languages and Tools:**  
 <img style="margin-right: 5px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
