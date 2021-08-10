@@ -34,7 +34,7 @@ I am skilled in :- <br />
 
 **More About Me :** 
 
-- 🌱 I’m currently learning Advance Algorithms for Competitive Programming.
+- 🌱 I’m currently learning System Design and Advance Algorithms.
 - 👯 I’m looking to collaborate on interesting projects.
 - 😄 Pronouns: Phoenix.
 - 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)).
