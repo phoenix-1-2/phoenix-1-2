@@ -23,9 +23,6 @@
 <br />
 
 Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a pre-final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I'm currently working as a Software Engineer at <a href="https://innovaccer.com/">Innovaccer</a>👨‍💻. I have experience working as a Software Developer in various domains like E-Commerce and Health-Care.
-
-
-<br />
 <br />
 
 I am skilled in :- <br />
@@ -37,11 +34,11 @@ I am skilled in :- <br />
 
 **More About Me :** 
 
-- 💻  I’m currently learning System Design and Advanced Algorithms .
-- 👯 I’m looking to collaborate on interesting projects.
-- 😄 Pronouns: Phoenix.
-- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)).
-- 💬 Ask me about Full Stack Web Devlopement [here](https://www.linkedin.com/in/nikhil1204/)
+- 💻  I’m currently learning System Design and Advanced Algorithms . <br />
+- 👯 I’m looking to collaborate on interesting projects. <br />
+- 😄 Pronouns: Phoenix. <br />
+- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1000+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/Phoenix-12-04)). <br />
+- 💬 Ask me about Full Stack Web Devlopement and Design and Health-care technologies [here](https://www.linkedin.com/in/nikhil1204/) <br />
 
 **Languages and Tools:**  
 <img style="margin-right: 5px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
