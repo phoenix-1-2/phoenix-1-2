@@ -1,4 +1,4 @@
-### Hi there, I'm Nikhil ! 👋
+# Hi there, I'm Nikhil ! 👋
 <a href="https://www.linkedin.com/in/nikhil1204/">
   <img align="left" alt="Nikhil Bhasin | LinkedIn" width="40px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-linkedin-circle-512.webp" />
 </a>
