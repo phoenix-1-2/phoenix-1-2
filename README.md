@@ -22,7 +22,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I'm currently working as a Software Engineer at <a href="https://innovaccer.com/">Innovaccer</a>👨‍💻. I have experience working as a Software Engineer in various domains like E-Commerce and Health-Care.
+Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I'm currently working as a Software Engineer at <a href="https://innovaccer.com/">Innovaccer</a>👨‍💻. I have experience working as a Software Engineer in various domains like Finance and Health-Care.
 <br />
 
 I am skilled in :- <br />
