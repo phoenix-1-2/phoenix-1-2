@@ -27,14 +27,14 @@ Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently wor
 <br />
 
 I am skilled in :- <br />
-- Programming Languages : Data Structures & Algorithms, Java, C++, Python, Javascript(ES-6). <br />
-- Python TechStack- Django, Flask & FastAPI. <br />
-- Javascript TechStack- Node, Express & React. <br />
-- Java TechStack- Spring, Spring Boot & Hibernate. <br />
+- Programming Languages - Data Structures & Algorithms, Java, C++, Python, Javascript(ES-6). <br />
+- Python TechStack - Django, Flask & FastAPI. <br />
+- Javascript TechStack - Node, Express & React. <br />
+- Java TechStack - Spring, Spring Boot & Hibernate. <br />
 - Databases - PostgreSQL, MongoDB, Redis & DynamoDB. <br />
 - Data Warehouse - Snowflake & Redshift. <br />
-- ELK TechStack- Elasticsearch, Logstash & Kibana. <br />
-- Testing Frameworks- JUnit (Java) & Pytest(Python). <br />
+- ELK TechStack - Elasticsearch, Logstash & Kibana. <br />
+- Testing Frameworks - JUnit (Java) & Pytest(Python). <br />
 - Cloud Computing - Amazon Web Services. <br />
 - API Tools - Postman & Swagger. <br />
 - Dev Tools - Docker, Kubernetes, Bash Scripting, Git Version Control. <br />
