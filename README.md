@@ -26,7 +26,7 @@ Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently wor
 
 <br />
 
-I am skilled in :- <br />
+I am skilled in:- <br />
 - Programming Languages - Data Structures & Algorithms, Java, C++, Python, Javascript(ES-6). <br />
 - Python TechStack - Django, Flask & FastAPI. <br />
 - Javascript TechStack - Node, Express & React. <br />
