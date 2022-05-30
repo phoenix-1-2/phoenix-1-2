@@ -45,7 +45,7 @@ I am skilled in :- <br />
 - 👯 I’m looking to collaborate on interesting projects. <br /> 
 - 😄 Pronouns: Phoenix. <br /> 
 - 🧗 Hobbies: Playing Badminton,Cricket,Chess-1200+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/phoenix_124)). <br /> 
-- 💬 Ask me about Full Stack Web Devlopment, System Design and Health-care technologies [here](https://www.linkedin.com/in/nikhil1204/). <br />
+- 💬 Ask me about Full Stack Web Devlopment and System Design [here](https://www.linkedin.com/in/nikhil1204/). <br />
 
 **Languages and Tools:**  
 <img style="margin-right: 5px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
