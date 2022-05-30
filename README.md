@@ -26,11 +26,18 @@ Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a
 <br />
 
 I am skilled in :- <br />
-- Programming Languages : Java,C++,Python,Javascript(ES-6). <br />
-- Back End Web Development: SQL, Python Django,Node.js,Express.js, Mongo.DB. <br /> 
-- Front End Web Developement : HTML, CSS, React.js, Bootstrap, jQuery and other React/FrontEnd Frameworks. <br /> 
-- DevTools : Amazon Web Services,Git Version Control,Pandas,Linux Terminal,Postman,SonarQube,Heroku,Netlify. <br /> 
-- Other Skills: Data Analytics, Machine Learning, Natural Language Processing. <br /> 
+- Programming Languages : Data Structures & Algorithms, Java, C++, Python, Javascript(ES-6). <br />
+- Python - Django, Flask & FastAPI. <br />
+- Javascript - Node, Express & React. <br />
+- Java - Spring, Spring Boot & Hibernate. <br />
+- Database - PostgreSQL, MongoDB, Redis & DynamoDB. <br />
+- Data Warehouse - Snowflake & Redshift. <br />
+- ELK - Elasticsearch, Logstash & Kibana. <br />
+- Testing - JUnit (Java) & Pytest(Python). <br />
+- Cloud Computing - Amazon Web Services. <br />
+- API Tools - Postman & Swagger. <br />
+- Dev Tools - Docker, Kubernetes, Bash Scripting, Git Version Control. <br />
+- Other Skills - Data Analytics, Machine Learning, HTML5/CSS3 & Bootstrap. <br />
 
 **More About Me :** 
 
