@@ -22,7 +22,8 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil Bhasin</a>. I am a final year Information Technology undergraduate at Jaypee Institute of Information Technology, Noida. I'm currently working as a Software Engineer at <a href="https://innovaccer.com/">Innovaccer</a>👨‍💻. I have experience working as a Software Engineer in various domains like Finance and Health-Care.
+Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently working as Software Development Engineer - Intern ( Big Data ) at Data Activation Platform, Innovaccer. Previously, I interned at Innovaccer as SDE-Intern(Backend) for the InAPI Platform. I am working every day to build, extend, optimize and refactor backend architecture and its core services.
+
 <br />
 
 I am skilled in :- <br />
