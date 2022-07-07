@@ -44,7 +44,7 @@ I am skilled in:- <br />
 - 💻  I’m currently learning System Design and Advanced Algorithms . <br />
 - 👯 I’m looking to collaborate on interesting projects. <br /> 
 - 🧗 Hobbies: Playing Badminton, Cricket, Chess-1300+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/phoenix_124)). <br /> 
-- 💬 Ask me about Backend Development, System Design, and Data-Intensive Architectures. [here](https://www.linkedin.com/in/nikhil1204/). <br />
+- 💬 Ask me about Backend Development, System Design, and Data-Intensive Architectures [here](https://www.linkedin.com/in/nikhil1204/). <br />
 
 **Languages and Tools:**  
 <img style="margin-right: 5px" height="40" src="https://brandslogos.com/wp-content/uploads/images/large/java-logo-vector-2.svg">
