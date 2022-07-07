@@ -1,5 +1,4 @@
 # Hi there👋
-# I'm Nikhil ! 
 <a href="https://www.linkedin.com/in/nikhil1204/">
   <img align="left" alt="Nikhil Bhasin | LinkedIn" width="40px" src="https://raw.githubusercontent.com/phoenix-1-2/phoenix-1-2/master/assets/social-linkedin-circle-512.webp" />
 </a>
@@ -22,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently working as Software Development Engineer - Intern ( Big Data ) at Data Activation Platform, Innovaccer. Previously, I interned at Innovaccer as SDE-Intern(Backend) for the InAPI Platform. I am working every day to build, extend, optimize and refactor backend architecture and its core services.
+Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently working as Software Development Engineer - I at Amazon, building Amazon Go's Just Walk Out Technology. Previously, I interned at Innovaccer as SDE-Intern (Big-Data) for the Data Activation Platform and SDE-Intern (Backend) for the InAPI Platform. I am working every day to build, extend, optimize and refactor backend architecture and its core services.
 
 <br />
 
