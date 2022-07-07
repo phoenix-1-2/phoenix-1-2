@@ -44,7 +44,7 @@ I am skilled in:- <br />
 - 💻  I’m currently learning System Design and Advanced Algorithms . <br />
 - 👯 I’m looking to collaborate on interesting projects. <br /> 
 - 😄 Pronouns: Phoenix. <br /> 
-- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1200+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/phoenix_124)). <br /> 
+- 🧗 Hobbies: Playing Badminton,Cricket,Chess-1300+ on chess.com(Let's play a Rapid match [here](https://www.chess.com/member/phoenix_124)). <br /> 
 - 💬 Ask me about Full Stack Web Devlopment and System Design [here](https://www.linkedin.com/in/nikhil1204/). <br />
 
 **Languages and Tools:**  
