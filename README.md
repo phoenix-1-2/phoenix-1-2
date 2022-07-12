@@ -21,7 +21,7 @@
 <br />
 <br />
 
-Hi, I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently working as Software Development Engineer - I at Amazon, building Amazon Go's Just Walk Out Technology. Previously, I worked at Innovaccer as SDE-Intern (Big-Data) for the Data Activation Platform and SDE-Intern (Backend) for the InAPI Platform. I am working every day to build, extend, optimize and refactor backend architecture and its core services.
+I'm <a href = "https://nikhil-bhasin.netlify.app/">Nikhil</a>, currently working as Software Development Engineer - I at Amazon, building Amazon Go's Just Walk Out Technology. Previously, I worked at Innovaccer as SDE-Intern (Big-Data) for the Data Activation Platform and SDE-Intern (Backend) for the InAPI Platform. I am working every day to build, extend, optimize and refactor backend architecture and its core services.
 
 <br />
 
